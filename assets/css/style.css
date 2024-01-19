@@ -253,13 +253,13 @@ ul li a{
     .main-container-big {
         display: inline-block;
         margin: 100px auto;
-        width: 70%;
+        width: 80%;
         margin: 100px 15%;
       }
 
     .main-container-big img{
-        width: 400px;
-        height: 400px;
+        width: 500px;
+        height: 500px;
         display: inline-block;
         margin: 0;
         vertical-align: middle;
