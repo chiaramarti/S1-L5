@@ -253,7 +253,6 @@ ul li a{
     .main-container-big {
         display: inline-block;
         margin: 100px auto;
-        vertical-align: middle;
         width: 70%;
         margin: 100px 15%;
       }
