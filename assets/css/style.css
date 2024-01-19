@@ -250,20 +250,36 @@ ul li a{
         display: none;
     }
 
-    .main-container-big{
-        display: flex;
+    .main-container-big {
+        display: inline-block;
         margin: 100px auto;
-    }
+        vertical-align: middle;
+        width: 70%;
+        margin: 100px 15%;
+      }
 
     .main-container-big img{
         width: 400px;
         height: 400px;
+        display: inline-block;
+        margin: 0;
+        vertical-align: middle;
     }
 
-    .main-container-big .textform, .main-container-big .textform p{
+    .main-container-big div{
+        vertical-align: middle;
+    }
+
+    .main-container-big .textform{
         text-align: left;
         margin-left: 0;
         width: 600px;
+        display: inline-block;
+        margin-left: 70px;
+  }
+    }
+    .main-container-big .textform p{
+        margin-left: 0;
     }
 
     .quote{
